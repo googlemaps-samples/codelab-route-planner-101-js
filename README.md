@@ -5,7 +5,7 @@ With Google Maps Platform, you can easily add a dynamic map into your applicatio
 
 This Codelab guides developers through building a web application using Maps JavaScript API, Place Autocomplete, and the Routes API. You will master integrating multiple Google Maps Platform APIs through a hands-on tutorial.
 
-This is the code referenced in the [Build a route planner with Maps Autocomplete and Routes API](https://developers.google.com/codelabs/maps-platform/maps-autocomplete-route-101-js) code lab from Google.
+This is the code referenced in the [Build a route planner with Maps Autocomplete and Routes API](https://developers.google.com/codelabs/maps-platform/route-planner-101-js) code lab from Google.
 
 ## What you'll learn
 * How to enable Google Maps Platform APIs
